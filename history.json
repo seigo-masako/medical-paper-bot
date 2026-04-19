@@ -1,3 +1,24 @@
 {
-  "reported_pmids": {}
+  "reported_pmids": {
+    "41983406": {
+      "title": "Accuracy of Telephone-Based Follow-Up in Identifying Critical Events in Children With Duchenne Muscular Dystrophy Receiving Standard of Care.",
+      "reported_at": "2026-04-19T10:22:45.007526"
+    },
+    "41999078": {
+      "title": "Digital Phenotyping and Lifestyle Intervention in Patients With Myasthenia Gravis (DIG-MG): A Randomized Controlled Trial of Feasibility, Adherence, and Effects on Fatigue.",
+      "reported_at": "2026-04-19T10:22:45.007526"
+    },
+    "41740345": {
+      "title": "Profiling mitochondrial DNA indices across whole blood, plasma, and CSF in amyotrophic lateral sclerosis.",
+      "reported_at": "2026-04-19T10:22:45.007526"
+    },
+    "41781213": {
+      "title": "Physical activity decreases the likelihood of peripheral neuropathy in persons with diabetes.",
+      "reported_at": "2026-04-19T10:22:45.007526"
+    },
+    "41760395": {
+      "title": "Respiratory function in Becker muscular dystrophy: a comprehensive longitudinal study.",
+      "reported_at": "2026-04-19T10:22:45.007526"
+    }
+  }
 }
