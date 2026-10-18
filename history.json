@@ -1,49 +1,5 @@
 {
   "reported_pmids": {
-    "41986736": {
-      "title": "An acetylated Tau-174 CSF biomarker discriminates between TDP-43 and tau pathology in patients with frontotemporal lobar degeneration.",
-      "reported_at": "2026-04-21T00:05:12.795829"
-    },
-    "41985110": {
-      "title": "Cognitive Fluctuations, Neuropsychiatric Burden, and Quality of Life in Moderate-Advanced Dementia With Lewy Bodies: The Role of Dysautonomia.",
-      "reported_at": "2026-04-21T00:05:12.795829"
-    },
-    "41989867": {
-      "title": "Sex-specific genetic drivers of memory, executive functioning and language in older adults.",
-      "reported_at": "2026-04-21T00:05:12.795829"
-    },
-    "41390238": {
-      "title": "Lecanemab appropriate use recommendations for clinical practice in the UK.",
-      "reported_at": "2026-04-21T00:05:12.795829"
-    },
-    "41047224": {
-      "title": "Midlife plasma proteomic profiles indicate altered amyloid and tau processing in former elite rugby players.",
-      "reported_at": "2026-04-21T00:05:12.795829"
-    },
-    "41984931": {
-      "title": "Autophagosome-targeting single-domain antibody clears tau in patient-derived neurons and improves motor function in tauopathy mice.",
-      "reported_at": "2026-04-21T00:11:14.194141"
-    },
-    "42003207": {
-      "title": "The Global Parkinson's Disease Genetics (GP2) Genome Browser.",
-      "reported_at": "2026-04-21T00:11:14.194141"
-    },
-    "41785435": {
-      "title": "Neuropsychiatric Symptoms in Patients With Pathologically Confirmed Comorbid Alzheimer Disease and Frontotemporal Lobar Degeneration.",
-      "reported_at": "2026-04-21T00:11:14.194141"
-    },
-    "42013407": {
-      "title": "Association of the Mediterranean Diet With White Matter Integrity Among Hispanic or Latino Adults: Results From the SOL-INCA-MRI Study.",
-      "reported_at": "2026-04-21T22:37:27.965738"
-    },
-    "42008251": {
-      "title": "Brain Imaging Biomarkers and Cognitive Outcomes in a Multidomain Lifestyle Intervention: The POINTER Imaging Ancillary Study.",
-      "reported_at": "2026-04-21T22:37:27.965738"
-    },
-    "42010343": {
-      "title": "Neuropathological correlates of age and sex differences in 18F-flortaucipir PET.",
-      "reported_at": "2026-04-21T22:37:27.965738"
-    },
     "42003734": {
       "title": "Indirect Striatal Projection Neurons Drive a D2 Receptor-Dependent Pathway to Dyskinesia and Dystonia.",
       "reported_at": "2026-04-22T22:46:57.530272"
@@ -3183,6 +3139,26 @@
     "42442067": {
       "title": "Long-term treatment with Eptinezumab in special treatment situations: Real world data.",
       "reported_at": "2026-10-17T00:09:09.982798"
+    },
+    "42865028": {
+      "title": "The Expanding Therapeutic Landscape in Myasthenia Gravis.",
+      "reported_at": "2026-10-18T23:55:46.950933"
+    },
+    "42868333": {
+      "title": "Disease Control in Generalized Myasthenia Gravis: Consensus Definition, Evolution, and Patient Characterization.",
+      "reported_at": "2026-10-18T23:55:46.950933"
+    },
+    "42860830": {
+      "title": "The Duke Myasthenia Gravis Clinic Registry: IV. Does Race Affect the Outcome of Treatment of Myasthenia Gravis? A Single Center Retrospective Analysis.",
+      "reported_at": "2026-10-18T23:55:46.950933"
+    },
+    "42861689": {
+      "title": "Statin Exposure and Survival Outcomes in Amyotrophic Lateral Sclerosis in an Asian Cohort.",
+      "reported_at": "2026-10-18T23:55:46.950933"
+    },
+    "42864259": {
+      "title": "The Efficacy and Safety of Tocilizumab in the Treatment of Refractory Ocular Myasthenia Gravis in Pediatric Patients.",
+      "reported_at": "2026-10-18T23:55:46.950933"
     }
   }
 }
