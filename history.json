@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42003734": {
-      "title": "Indirect Striatal Projection Neurons Drive a D2 Receptor-Dependent Pathway to Dyskinesia and Dystonia.",
-      "reported_at": "2026-04-22T22:46:57.530272"
-    },
-    "41987484": {
-      "title": "Five-Year Follow-Up of Unilateral Focused Ultrasound Subthalamotomy for Parkinson's Disease.",
-      "reported_at": "2026-04-22T22:46:57.530272"
-    },
-    "41992946": {
-      "title": "Blood mtDNA markers of mitochondrial subtype and early-onset Parkinson's disease biology.",
-      "reported_at": "2026-04-22T22:46:57.530272"
-    },
-    "41781214": {
-      "title": "Patients with symmetric Parkinson's disease do poorly with subthalamic stimulation.",
-      "reported_at": "2026-04-22T22:46:57.530272"
-    },
-    "41992934": {
-      "title": "Multimodal Image Guidance in Subthalamic Deep Brain Stimulation for Parkinson's Disease.",
-      "reported_at": "2026-04-22T22:46:57.530272"
-    },
     "42017314": {
       "title": "Collapse of feed-forward inhibition underpins hyperexcitability in GABAA gain-of-function epilepsy.",
       "reported_at": "2026-04-23T22:43:40.284984"
@@ -3159,6 +3139,26 @@
     "42864259": {
       "title": "The Efficacy and Safety of Tocilizumab in the Treatment of Refractory Ocular Myasthenia Gravis in Pediatric Patients.",
       "reported_at": "2026-10-18T23:55:46.950933"
+    },
+    "42873892": {
+      "title": "Preclinical and first-in-human evaluation of VG-3927/SAR448851, an oral small-molecule TREM2 agonist for Alzheimer's disease.",
+      "reported_at": "2026-10-20T00:55:21.604252"
+    },
+    "42886876": {
+      "title": "Midlife and Late-Life Alzheimer Disease Blood Biomarkers and 11-Year Cognitive Decline.",
+      "reported_at": "2026-10-20T00:55:21.604252"
+    },
+    "42886871": {
+      "title": "Role of <i>APOE</i> ɛ4 and ɛ2 With Longitudinal Cognitive Decline Among Those With Exceptional Longevity: The LifeAfter90 Study.",
+      "reported_at": "2026-10-20T00:55:21.604252"
+    },
+    "42873601": {
+      "title": "Mild Amyloid Burden in the Brains of Cognitively Unimpaired Individuals is Associated with Long-Term Cognitive Impairment.",
+      "reported_at": "2026-10-20T00:55:21.604252"
+    },
+    "42873606": {
+      "title": "Hemispheric Asymmetry of Neuroimaging Biomarkers in Early Onset Alzheimer's Disease: Clinical and Cognitive Outcomes.",
+      "reported_at": "2026-10-20T00:55:21.604252"
     }
   }
 }
