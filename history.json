@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42017314": {
-      "title": "Collapse of feed-forward inhibition underpins hyperexcitability in GABAA gain-of-function epilepsy.",
-      "reported_at": "2026-04-23T22:43:40.284984"
-    },
-    "41992961": {
-      "title": "Longitudinal Phenotypic Trajectories in GNAO1-Related Disorders: Defining Disease Progression and Clinical Profiles.",
-      "reported_at": "2026-04-23T22:43:40.284984"
-    },
-    "42011139": {
-      "title": "Mental health of children with epilepsy in Ukraine during the war.",
-      "reported_at": "2026-04-23T22:43:40.284984"
-    },
-    "42017361": {
-      "title": "A consensus roadmap for post-traumatic epilepsy: Clinical biomarkers, research priorities, policy barriers, and pathways to interventional trials.",
-      "reported_at": "2026-04-23T22:43:40.284984"
-    },
-    "42018962": {
-      "title": "The Relationship Between Sleep, Cognition, and Dementia Risk in People With Focal Epilepsy.",
-      "reported_at": "2026-04-23T22:43:40.284984"
-    },
     "42018961": {
       "title": "Virtual vs In-Person Neurologic Ambulatory Care: A Case-Control Study of Subsequent Health Care Utilization.",
       "reported_at": "2026-04-24T22:38:14.885014"
@@ -3159,6 +3139,22 @@
     "42873606": {
       "title": "Hemispheric Asymmetry of Neuroimaging Biomarkers in Early Onset Alzheimer's Disease: Clinical and Cognitive Outcomes.",
       "reported_at": "2026-10-20T00:55:21.604252"
+    },
+    "42876073": {
+      "title": "GCH1 p.Ser80Asn Confers Risk for Parkinson's Disease in East Asian Populations.",
+      "reported_at": "2026-10-21T00:23:41.197680"
+    },
+    "42897719": {
+      "title": "Cortical Cholinergic Pathway Degeneration Reflects Cognitive Impairment and Dementia in Parkinson's Disease.",
+      "reported_at": "2026-10-21T00:23:41.197680"
+    },
+    "42872588": {
+      "title": "Extracellular vesicle α-synuclein topology reveals disease-associated conformers in brain and blood.",
+      "reported_at": "2026-10-21T00:23:41.197680"
+    },
+    "42888868": {
+      "title": "Habitual Diet, Gut Microbiome Dysbiosis, and α-Synucleinopathy Conversion in Isolated Rapid Eye Movement (REM) Sleep Behavior Disorder.",
+      "reported_at": "2026-10-21T00:23:41.197680"
     }
   }
 }
