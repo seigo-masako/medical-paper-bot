@@ -1,17 +1,5 @@
 {
   "reported_pmids": {
-    "42018961": {
-      "title": "Virtual vs In-Person Neurologic Ambulatory Care: A Case-Control Study of Subsequent Health Care Utilization.",
-      "reported_at": "2026-04-24T22:38:14.885014"
-    },
-    "42028856": {
-      "title": "GABAB receptors in glial cells: from physiological regulation to pathological implications.",
-      "reported_at": "2026-04-24T22:38:14.885014"
-    },
-    "42028852": {
-      "title": "Imaging progenitor cell differentiation during central nervous system remyelination using an MRI gene reporter.",
-      "reported_at": "2026-04-24T22:38:14.885014"
-    },
     "42031530": {
       "title": "Incidence and prevalence of small fibre neuropathy in the Netherlands: a multiple system estimation study.",
       "reported_at": "2026-04-25T22:35:48.455199"
@@ -3155,6 +3143,26 @@
     "42888868": {
       "title": "Habitual Diet, Gut Microbiome Dysbiosis, and α-Synucleinopathy Conversion in Isolated Rapid Eye Movement (REM) Sleep Behavior Disorder.",
       "reported_at": "2026-10-21T00:23:41.197680"
+    },
+    "42897828": {
+      "title": "Validation of the diagnosis of Lennox-Gastaut syndrome: Challenges and lessons learned.",
+      "reported_at": "2026-10-22T00:26:59.612707"
+    },
+    "42879242": {
+      "title": "Beyond seizure control: Non-seizure-related outcomes in focal-onset epilepsy treated with adjunctive cenobamate. Third interim results from the BLESS study.",
+      "reported_at": "2026-10-22T00:26:59.612707"
+    },
+    "42888948": {
+      "title": "Multimodal modeling of the ictal onset zone in refractory insular epilepsy and seizure outcome of magnetic resonance-guided laser interstitial therapy: A pediatric single-center retrospective study.",
+      "reported_at": "2026-10-22T00:26:59.612707"
+    },
+    "42897771": {
+      "title": "Beyond neuroprotection: Context-dependent effects of GLP-1 receptor agonists on seizure susceptibility.",
+      "reported_at": "2026-10-22T00:26:59.612707"
+    },
+    "42897757": {
+      "title": "Symptom-related damage patterns in mesial temporal lobe epilepsy with hippocampal sclerosis.",
+      "reported_at": "2026-10-22T00:26:59.612707"
     }
   }
 }
