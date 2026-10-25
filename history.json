@@ -1,45 +1,5 @@
 {
   "reported_pmids": {
-    "42025983": {
-      "title": "Predictors of spontaneous and early recanalization in stroke patients eligible for endovascular treatment.",
-      "reported_at": "2026-04-27T22:52:19.993500"
-    },
-    "42026777": {
-      "title": "Stroke Etiologies With Intravenous Thrombolysis before Thrombectomy and Functional Outcomes in Anterior Circulation Large Vessel Occlusion.",
-      "reported_at": "2026-04-27T22:52:19.993500"
-    },
-    "42044225": {
-      "title": "Preterm Delivery and Long-Term Risk of Maternal Stroke: Systematic Review and Meta-Analysis.",
-      "reported_at": "2026-04-27T22:52:19.993500"
-    },
-    "42026933": {
-      "title": "Intra-arterial Alteplase Thrombolysis After Successful Thrombectomy for AIS in the Posterior Circulation: The IAT-TOP Randomized Clinical Trial.",
-      "reported_at": "2026-04-27T22:52:19.993500"
-    },
-    "42017224": {
-      "title": "Endovascular Thrombectomy Versus Standard Medical Management in Acute Anterior Cerebral Artery Occlusion Stroke: The ORIENTAL-MeVO Registry Study.",
-      "reported_at": "2026-04-27T22:52:19.993500"
-    },
-    "42046390": {
-      "title": "Medial temporal lobe Tau-Neurodegeneration mismatch from structural imaging and plasma biomarkers.",
-      "reported_at": "2026-04-28T22:57:23.814131"
-    },
-    "42019008": {
-      "title": "Default mode network failure across the Alzheimer's disease spectrum.",
-      "reported_at": "2026-04-28T22:57:23.814131"
-    },
-    "42030516": {
-      "title": "Association of MRI-Visible Perivascular Spaces With Longitudinal Cognitive Decline Over a Decade.",
-      "reported_at": "2026-04-28T22:57:23.814131"
-    },
-    "41950468": {
-      "title": "Effect of Cognitive Reserve on Age at Symptom Onset and Cognitive Decline in Individuals With Dominantly Inherited Alzheimer Disease.",
-      "reported_at": "2026-04-28T22:57:23.814131"
-    },
-    "42045103": {
-      "title": "Cerebrospinal Fluid Amyloid-β Biomarkers Predict Future Hemorrhage in Patients with Cerebral Amyloid Angiopathy.",
-      "reported_at": "2026-04-28T22:57:23.814131"
-    },
     "42036356": {
       "title": "Metabolic and Volumetric Alterations in the Basal Ganglia and the Cerebellum in Dopa-Responsive Dystonia in Symptomatic and Asymptomatic GCH1 Mutation Carriers.",
       "reported_at": "2026-04-29T22:56:59.475299"
@@ -3143,6 +3103,22 @@
     "42910536": {
       "title": "Migraine comorbidity in epilepsy subtypes: Association with focal versus generalized epilepsy and seizure control-A systematic review and meta-analysis.",
       "reported_at": "2026-10-24T00:14:50.357083"
+    },
+    "42919661": {
+      "title": "F-Wave-Induced Repetitive Discharges: Expanding the Spectrum of Stimulus-Induced Repetitive Discharges.",
+      "reported_at": "2026-10-25T23:48:16.504902"
+    },
+    "42902847": {
+      "title": "Serum Mycophenolic Acid Levels and Infection Risk in Myasthenia Gravis.",
+      "reported_at": "2026-10-25T23:48:16.504902"
+    },
+    "42897751": {
+      "title": "From Long-Term to Trial-Ready: 1.5-Year Follow-Up in an Established FSHD Cohort Highlights Limitations of Current Outcome Measures.",
+      "reported_at": "2026-10-25T23:48:16.504902"
+    },
+    "42900857": {
+      "title": "Association Between Systemic Fluoroquinolones and Risk of Peripheral Neuropathy.",
+      "reported_at": "2026-10-25T23:48:16.504902"
     }
   }
 }
