@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42036356": {
-      "title": "Metabolic and Volumetric Alterations in the Basal Ganglia and the Cerebellum in Dopa-Responsive Dystonia in Symptomatic and Asymptomatic GCH1 Mutation Carriers.",
-      "reported_at": "2026-04-29T22:56:59.475299"
-    },
-    "42026702": {
-      "title": "Target-Dependent Postoperative Weight Gain after Pallidothalamic Tractotomy versus Pallidotomy for Dystonia.",
-      "reported_at": "2026-04-29T22:56:59.475299"
-    },
-    "42036389": {
-      "title": "Seeing Invisible Oligomers: Rethinking α-Synuclein Pathology Through Proximity Ligation Assay.",
-      "reported_at": "2026-04-29T22:56:59.475299"
-    },
-    "42015416": {
-      "title": "Machine learning model based on plasma proteomics for the identification of Parkinson's disease.",
-      "reported_at": "2026-04-29T22:56:59.475299"
-    },
-    "42052893": {
-      "title": "Comparative transcriptomics reveal molecular convergence and divergence in parkinsonian disorders.",
-      "reported_at": "2026-04-29T22:56:59.475299"
-    },
     "42047579": {
       "title": "Developmental and/or epileptic encephalopathy with spike-and-wave activation in sleep: Pathophysiological insights and treatment options.",
       "reported_at": "2026-04-30T22:54:30.288750"
@@ -3119,6 +3099,26 @@
     "42900857": {
       "title": "Association Between Systemic Fluoroquinolones and Risk of Peripheral Neuropathy.",
       "reported_at": "2026-10-25T23:48:16.504902"
+    },
+    "42906069": {
+      "title": "Association Between Plasma N-Terminal Tau, Cognitive Decline, and Neurodegeneration in the ADNI Cohort.",
+      "reported_at": "2026-10-27T01:08:29.884611"
+    },
+    "42904923": {
+      "title": "Serum β-synuclein predicts dementia conversion and mortality beyond amyloid-β and phospho-tau.",
+      "reported_at": "2026-10-27T01:08:29.884611"
+    },
+    "42904574": {
+      "title": "Accelerated Epigenetic Aging in Frontotemporal Dementia Highlights Smoking, Inflammation, and Metabolic Signals.",
+      "reported_at": "2026-10-27T01:08:29.884611"
+    },
+    "42913444": {
+      "title": "Blood-Based Biomarkers as Predictors of All-Cause Dementia: A 13-Year Follow-Up in the Whitehall II Cohort Study.",
+      "reported_at": "2026-10-27T01:08:29.884611"
+    },
+    "42910644": {
+      "title": "TMEM106B risk converges on C-terminal fragment homeostasis: genetics, mechanisms and therapy.",
+      "reported_at": "2026-10-27T01:08:29.884611"
     }
   }
 }
