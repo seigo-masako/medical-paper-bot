@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42047579": {
-      "title": "Developmental and/or epileptic encephalopathy with spike-and-wave activation in sleep: Pathophysiological insights and treatment options.",
-      "reported_at": "2026-04-30T22:54:30.288750"
-    },
-    "42043830": {
-      "title": "Acute Brain Injury in New-Onset Refractory Status Epilepticus and Etiology-Defined Status Epilepticus.",
-      "reported_at": "2026-04-30T22:54:30.288750"
-    },
-    "42030518": {
-      "title": "Postapproval Study for Brain-Responsive Neurostimulation for Drug-Resistant Focal Epilepsy: Three-Year Efficacy and Interim Safety Results.",
-      "reported_at": "2026-04-30T22:54:30.288750"
-    },
-    "42047514": {
-      "title": "Epilepsy in emerging adulthood: Clinical, psychosocial, and surgical challenges.",
-      "reported_at": "2026-04-30T22:54:30.288750"
-    },
-    "42033187": {
-      "title": "Compound heterozygous SLC12A5 variants expand the molecular and functional spectrum of KCC2-developmental and epileptic encephalopathy.",
-      "reported_at": "2026-04-30T22:54:30.288750"
-    },
     "42009010": {
       "title": "Identification of genetic risk loci associated with aquaporin 4-positive neuromyelitis optica spectrum disorder: a genome-wide association study.",
       "reported_at": "2026-05-01T22:49:28.993061"
@@ -3119,6 +3099,26 @@
     "42910644": {
       "title": "TMEM106B risk converges on C-terminal fragment homeostasis: genetics, mechanisms and therapy.",
       "reported_at": "2026-10-27T01:08:29.884611"
+    },
+    "42920346": {
+      "title": "Ambulatory Episodic Hypertension in Parkinson's Disease With Orthostatic Hypotension.",
+      "reported_at": "2026-10-28T00:59:17.441126"
+    },
+    "42920097": {
+      "title": "Remote Versus In-Person Follow-up Programming After Subthalamic Deep Brain Stimulation for Parkinson's Disease: A Multicenter Randomized Noninferiority Trial.",
+      "reported_at": "2026-10-28T00:59:17.441126"
+    },
+    "42934951": {
+      "title": "Focused Ultrasound for Essential Tremor in Denmark: Results After 1 Year of Follow-Up.",
+      "reported_at": "2026-10-28T00:59:17.441126"
+    },
+    "42935472": {
+      "title": "Mortality in People with Action Tremor: Findings from Three Population-Based Cohort Studies.",
+      "reported_at": "2026-10-28T00:59:17.441126"
+    },
+    "42908235": {
+      "title": "Cross-Cohort Evidence Links KCNJ6 rs702859 to Impulsive-Compulsive Phenotypes in Parkinson's Disease.",
+      "reported_at": "2026-10-28T00:59:17.441126"
     }
   }
 }
