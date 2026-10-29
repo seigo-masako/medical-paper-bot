@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42009010": {
-      "title": "Identification of genetic risk loci associated with aquaporin 4-positive neuromyelitis optica spectrum disorder: a genome-wide association study.",
-      "reported_at": "2026-05-01T22:49:28.993061"
-    },
-    "41921124": {
-      "title": "Diagnostic Value of the Kappa Free Light Chain Index to Distinguish MOGAD, NMOSD, and MS.",
-      "reported_at": "2026-05-01T22:49:28.993061"
-    },
-    "42037489": {
-      "title": "Explainable Artificial Intelligence to Predict Neurocognitive Disorder Progression in Multiple Sclerosis Using MRI and Clinical Data.",
-      "reported_at": "2026-05-01T22:49:28.993061"
-    },
-    "42062051": {
-      "title": "Relapse-associated worsening in apolipoprotein E ε4 carriers with relapsing multiple sclerosis.",
-      "reported_at": "2026-05-01T22:49:28.993061"
-    },
-    "42054495": {
-      "title": "Low overlap of plasma and CSF protein quantitative trait loci affects protein discovery for neurological disease.",
-      "reported_at": "2026-05-01T22:49:28.993061"
-    },
     "41886713": {
       "title": "Eptinezumab With Patient Education for Chronic Migraine and Medication-Overuse Headache: The Randomized, Placebo-Controlled RESOLUTION Trial.",
       "reported_at": "2026-05-02T22:40:28.777545"
@@ -3119,6 +3099,26 @@
     "42908235": {
       "title": "Cross-Cohort Evidence Links KCNJ6 rs702859 to Impulsive-Compulsive Phenotypes in Parkinson's Disease.",
       "reported_at": "2026-10-28T00:59:17.441126"
+    },
+    "42945751": {
+      "title": "Efficacy and safety of intranasal and buccal midazolam versus intravenous, intramuscular, and rectal benzodiazepines for the termination of acute seizures in children: a systematic review and meta-analysis.",
+      "reported_at": "2026-10-29T01:32:44.329105"
+    },
+    "42945750": {
+      "title": "Caution with self-reported ADHD symptoms in adults with epilepsy: discrepancy between subjective perception and objective cognitive performance.",
+      "reported_at": "2026-10-29T01:32:44.329105"
+    },
+    "42932852": {
+      "title": "Differences in Epilepsy Etiology, Type, Syndrome, and Severity Between Māori and Non-Māori-Non-Pasifika Children With Epilepsy in New Zealand.",
+      "reported_at": "2026-10-29T01:32:44.329105"
+    },
+    "42934970": {
+      "title": "Short-term outcomes, longer-term disability and relapse risk in LGI1-antibody encephalitis.",
+      "reported_at": "2026-10-29T01:32:44.329105"
+    },
+    "42931745": {
+      "title": "Internet Intervention for Functional Seizures: A Randomized Clinical Trial.",
+      "reported_at": "2026-10-29T01:32:44.329105"
     }
   }
 }
