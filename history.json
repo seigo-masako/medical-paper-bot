@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "41886713": {
-      "title": "Eptinezumab With Patient Education for Chronic Migraine and Medication-Overuse Headache: The Randomized, Placebo-Controlled RESOLUTION Trial.",
-      "reported_at": "2026-05-02T22:40:28.777545"
-    },
-    "41886709": {
-      "title": "Hypnotic Cognitive Therapy for Chronic Pain in Spinal Cord Injury: A Randomized Controlled Trial.",
-      "reported_at": "2026-05-02T22:40:28.777545"
-    },
-    "42048631": {
-      "title": "De novo nitric oxide synthesis drives tactile hypersensitivity induced by ATP-sensitive potassium channel opening in mice: relevance to migraine and other headache disorders.",
-      "reported_at": "2026-05-02T22:40:28.777545"
-    },
-    "41728974": {
-      "title": "Sex differences in the impact of nerve injury on locus coeruleus function and behaviour in mice.",
-      "reported_at": "2026-05-02T22:40:28.777545"
-    },
-    "41494160": {
-      "title": "Mismatch between intact electrical excitability and lost heat pain in diabetic neuropathy.",
-      "reported_at": "2026-05-02T22:40:28.777545"
-    },
     "41945881": {
       "title": "Efficacy of Pyridostigmine in Myasthenia Gravis: A Randomized, Double-Blind, Placebo-Controlled Crossover Trial.",
       "reported_at": "2026-05-03T22:40:07.771351"
@@ -3119,6 +3099,26 @@
     "42931745": {
       "title": "Internet Intervention for Functional Seizures: A Randomized Clinical Trial.",
       "reported_at": "2026-10-29T01:32:44.329105"
+    },
+    "42915009": {
+      "title": "Remibrutinib versus teriflunomide in relapsing multiple sclerosis (REMODEL-1 and REMODEL-2): two randomised, phase 3 trials.",
+      "reported_at": "2026-10-30T01:33:12.787516"
+    },
+    "42784777": {
+      "title": "Sustained Benefits of a Multidomain Lifestyle Intervention in Multiple Sclerosis in the LIMS Study: A 24-Month Follow-Up.",
+      "reported_at": "2026-10-30T01:33:12.787516"
+    },
+    "42915008": {
+      "title": "The clinical relevance of multiple sclerosis genetics: from susceptibility to disease severity and progression.",
+      "reported_at": "2026-10-30T01:33:12.787516"
+    },
+    "42784778": {
+      "title": "Developing Interim Outcome Measures for Multi-Arm Multistage Clinical Trials in Multiple Sclerosis.",
+      "reported_at": "2026-10-30T01:33:12.787516"
+    },
+    "42931738": {
+      "title": "Gain-of-Function Variants in PLAAT4 and Spinal Predominant Demyelinating Leukodystrophy.",
+      "reported_at": "2026-10-30T01:33:12.787516"
     }
   }
 }
