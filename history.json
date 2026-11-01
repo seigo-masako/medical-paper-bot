@@ -1,45 +1,5 @@
 {
   "reported_pmids": {
-    "41945881": {
-      "title": "Efficacy of Pyridostigmine in Myasthenia Gravis: A Randomized, Double-Blind, Placebo-Controlled Crossover Trial.",
-      "reported_at": "2026-05-03T22:40:07.771351"
-    },
-    "41945880": {
-      "title": "Efficacy and Safety of Amifampridine in Myasthenia Gravis: A Randomized, Double-Blind, Placebo-Controlled Crossover Trial.",
-      "reported_at": "2026-05-03T22:40:07.771351"
-    },
-    "41589772": {
-      "title": "Elevated Serum SIRT2 Is Associated With Rapid Progression and Cognitive Impairment in Amyotrophic Lateral Sclerosis.",
-      "reported_at": "2026-05-03T22:40:07.771351"
-    },
-    "42036360": {
-      "title": "Congenital Myopathies and Muscular Dystrophies: A Single Tertiary Center Experience and Factors Associated With Long-Term Outcomes.",
-      "reported_at": "2026-05-03T22:40:07.771351"
-    },
-    "41685589": {
-      "title": "Cognitive Dysfunction Is Associated With an Underestimation of Respiratory Function in ALS.",
-      "reported_at": "2026-05-03T22:40:07.771351"
-    },
-    "41797706": {
-      "title": "Clinical Impact of Postrecanalization Hemorrhagic Transformation and Its Prediction Using Baseline Noncontrast CT.",
-      "reported_at": "2026-05-04T22:58:08.759546"
-    },
-    "42044230": {
-      "title": "Glenzocimab Efficacy and Safety Added to Intravenous Thrombolysis With or Without Mechanical Thrombectomy in Patients With Acute Ischemic Stroke-ACTISAVE: A Prospective, Randomized, Double-Blind Study.",
-      "reported_at": "2026-05-04T22:58:08.759546"
-    },
-    "41804648": {
-      "title": "Outcomes and Safety of Revascularization Approaches for Stroke Related to Isolated Vertebral Artery Occlusions (BRAVO).",
-      "reported_at": "2026-05-04T22:58:08.759546"
-    },
-    "41744094": {
-      "title": "Poorer Outcomes With Blood Pressure Lowering in Severe White Matter Disease After Thrombectomy.",
-      "reported_at": "2026-05-04T22:58:08.759546"
-    },
-    "41886712": {
-      "title": "Functional Outcome Following Blood Pressure Drops Within 24 Hours After Successful Mechanical Thrombectomy.",
-      "reported_at": "2026-05-04T22:58:08.759546"
-    },
     "42084083": {
       "title": "Association of plasma biomarkers with amyloid and tau PET in pre-dementia stages.",
       "reported_at": "2026-05-05T22:55:25.576532"
@@ -3119,6 +3079,26 @@
     "42931738": {
       "title": "Gain-of-Function Variants in PLAAT4 and Spinal Predominant Demyelinating Leukodystrophy.",
       "reported_at": "2026-10-30T01:33:12.787516"
+    },
+    "42874619": {
+      "title": "Safety and efficacy of delpacibart zotadirsen in Duchenne muscular dystrophy mutations amenable to exon 44 skipping in the USA (EXPLORE44): a randomised, placebo-controlled, double-blind, phase 1/2 trial.",
+      "reported_at": "2026-11-01T00:42:11.398198"
+    },
+    "42933458": {
+      "title": "First-line pembrolizumab versus carboplatin plus paclitaxel in participants with mismatch repair-deficient advanced or recurrent endometrial cancer (KEYNOTE-C93/GOG-3064/ENGOT-en15): interim analysis of a multicentre, open-label, randomised, active-comparator controlled, phase 3 trial.",
+      "reported_at": "2026-11-01T00:42:11.398198"
+    },
+    "42933234": {
+      "title": "Cost-effectiveness of multidisciplinary care compared with standard neurology care in Amyotrophic Lateral Sclerosis: A model-based cost-utility analysis.",
+      "reported_at": "2026-11-01T00:42:11.398198"
+    },
+    "42649099": {
+      "title": "It's Virtually Here: Telemedicine, Virtual Care, and Neuromuscular Disease.",
+      "reported_at": "2026-11-01T00:42:11.398198"
+    },
+    "42947411": {
+      "title": "Time-to-Event Analysis of Clinical Milestones in the ALS Natural History Consortium Dataset.",
+      "reported_at": "2026-11-01T00:42:11.398198"
     }
   }
 }
