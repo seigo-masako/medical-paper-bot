@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42084083": {
-      "title": "Association of plasma biomarkers with amyloid and tau PET in pre-dementia stages.",
-      "reported_at": "2026-05-05T22:55:25.576532"
-    },
-    "41071932": {
-      "title": "KIF2A downregulation links amyloid-β to Tau phosphorylation in Alzheimer's disease.",
-      "reported_at": "2026-05-05T22:55:25.576532"
-    },
-    "42050369": {
-      "title": "Peripheral vascular function, including endothelium-dependent measures, and dementia risk: The Framingham Heart Study.",
-      "reported_at": "2026-05-05T22:55:25.576532"
-    },
-    "42080249": {
-      "title": "Usage and positivity rates of Alzheimer's disease biomarkers in a memory clinic.",
-      "reported_at": "2026-05-05T22:55:25.576532"
-    },
-    "42062774": {
-      "title": "Development and validation of MethylCog, a blood DNA methylation proxy for cognition.",
-      "reported_at": "2026-05-05T22:55:25.576532"
-    },
     "42059110": {
       "title": "Speech and Deep Brain Stimulation in Parkinson's Disease, Essential Tremor, and Dystonia: A Systematic Review and Meta-analysis.",
       "reported_at": "2026-05-06T22:53:25.402500"
@@ -3099,6 +3079,26 @@
     "42947411": {
       "title": "Time-to-Event Analysis of Clinical Milestones in the ALS Natural History Consortium Dataset.",
       "reported_at": "2026-11-01T00:42:11.398198"
+    },
+    "42953941": {
+      "title": "Comparative Safety and Efficacy of Oral Anticoagulants in Patients With Atrial Fibrillation and Prior Ischemic Stroke: A Systematic Review and Network Meta-Analysis of Randomized-Controlled Clinical Trials.",
+      "reported_at": "2026-11-02T01:16:53.229369"
+    },
+    "42953937": {
+      "title": "Impact of Inflammatory Burden on Outcomes After Breakthrough Ischemic Stroke: Insights From the ASPERA-R Study.",
+      "reported_at": "2026-11-02T01:16:53.229369"
+    },
+    "42734063": {
+      "title": "Sodium-Glucose Cotransporter 2 Inhibitor Use and Functional Outcomes After Endovascular Thrombectomy in Diabetic Stroke.",
+      "reported_at": "2026-11-02T01:16:53.229369"
+    },
+    "42717910": {
+      "title": "Early Recanalization After Tenecteplase or Alteplase in Distal and Medium Vessel Occlusion Strokes: An Observational Cohort Study.",
+      "reported_at": "2026-11-02T01:16:53.229369"
+    },
+    "42946235": {
+      "title": "Effects of prehospital blood pressure on 90-day functional outcomes in patients with acute ischemic stroke due to large vessel occlusion.",
+      "reported_at": "2026-11-02T01:16:53.229369"
     }
   }
 }
