@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42059110": {
-      "title": "Speech and Deep Brain Stimulation in Parkinson's Disease, Essential Tremor, and Dystonia: A Systematic Review and Meta-analysis.",
-      "reported_at": "2026-05-06T22:53:25.402500"
-    },
-    "41105635": {
-      "title": "Apathy, effort-based decisions and brain integrity in Alzheimer's and Parkinson's diseases.",
-      "reported_at": "2026-05-06T22:53:25.402500"
-    },
-    "41556550": {
-      "title": "Spatial propagation of movement-related basal ganglia activity predicts parkinsonian motor state.",
-      "reported_at": "2026-05-06T22:53:25.402500"
-    },
-    "42087813": {
-      "title": "Neuroinflammation and neurodegeneration trigger a specific splice form of ribosomal protein S24.",
-      "reported_at": "2026-05-06T22:53:25.402500"
-    },
-    "42089402": {
-      "title": "Electroencephalography-Based Clustering Reveals Robust Neurophysiological Subtypes in Parkinson's Disease.",
-      "reported_at": "2026-05-06T22:53:25.402500"
-    },
     "42096279": {
       "title": "Management of ring chromosome 20 syndrome: Narrative review and consensus recommendations.",
       "reported_at": "2026-05-07T23:01:13.326697"
@@ -3099,6 +3079,26 @@
     "42946235": {
       "title": "Effects of prehospital blood pressure on 90-day functional outcomes in patients with acute ischemic stroke due to large vessel occlusion.",
       "reported_at": "2026-11-02T01:16:53.229369"
+    },
+    "42969188": {
+      "title": "Understanding the Pattern of Cognitive Decline in GBA1-Related Parkinson's Disease: An Exploratory Longitudinal Multi-Cohort Study.",
+      "reported_at": "2026-11-03T03:19:19.249133"
+    },
+    "42953974": {
+      "title": "Alzheimer's pathology mediates arteriolosclerosis and cerebral amyloid angiopathy associations with cognition.",
+      "reported_at": "2026-11-03T03:19:19.249133"
+    },
+    "42970282": {
+      "title": "Delirium and Long-Term Cognitive Trajectories in Cognitively Unimpaired Adults.",
+      "reported_at": "2026-11-03T03:19:19.249133"
+    },
+    "42953980": {
+      "title": "Cerebellar subregions support social cognition in early behavioural variant frontotemporal dementia.",
+      "reported_at": "2026-11-03T03:19:19.249133"
+    },
+    "42809801": {
+      "title": "Disease Progression in Iatrogenic Cerebral Amyloid Angiopathy.",
+      "reported_at": "2026-11-03T03:19:19.249133"
     }
   }
 }
