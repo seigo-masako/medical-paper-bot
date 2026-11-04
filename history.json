@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42096279": {
-      "title": "Management of ring chromosome 20 syndrome: Narrative review and consensus recommendations.",
-      "reported_at": "2026-05-07T23:01:13.326697"
-    },
-    "42080219": {
-      "title": "Current management of low-grade, epilepsy-associated brain tumors in Europe.",
-      "reported_at": "2026-05-07T23:01:13.326697"
-    },
-    "42095980": {
-      "title": "Stereo-electroencephalography-guided cross-electrode radiofrequency thermocoagulation in focal epilepsy: A review of current methodologies and outcomes.",
-      "reported_at": "2026-05-07T23:01:13.326697"
-    },
-    "42085324": {
-      "title": "Disrupted inhibitory interneuron development in SCN1A Dravet syndrome revealed by patient-derived subpallial organoids.",
-      "reported_at": "2026-05-07T23:01:13.326697"
-    },
-    "42096301": {
-      "title": "WONOEP XVII appraisal: The role of the extracellular matrix in epilepsy.",
-      "reported_at": "2026-05-07T23:01:13.326697"
-    },
     "42081777": {
       "title": "Intrathecal Mesenchymal Stem Cells in Progressive Multiple Sclerosis: A Randomized, Double-Blind, Placebo-Controlled Trial (SMART-MS).",
       "reported_at": "2026-05-08T22:55:58.133687"
@@ -3099,6 +3079,26 @@
     "42809801": {
       "title": "Disease Progression in Iatrogenic Cerebral Amyloid Angiopathy.",
       "reported_at": "2026-11-03T03:19:19.249133"
+    },
+    "42949087": {
+      "title": "Neuromelanin-Sensitive MRI as a Marker of Clinical Severity and Disease Burden in Parkinson's Disease: A Systematic Review and Meta-analysis.",
+      "reported_at": "2026-11-04T01:54:37.233931"
+    },
+    "42960446": {
+      "title": "Motor Cortex Disinhibition Is Dissociated from Clinical Motor Features in Parkinson's Disease: Longitudinal Evidence.",
+      "reported_at": "2026-11-04T01:54:37.233931"
+    },
+    "42960478": {
+      "title": "Prediction of First and Recurrent Falls in Parkinson's Disease.",
+      "reported_at": "2026-11-04T01:54:37.233931"
+    },
+    "42949100": {
+      "title": "Genetic Analysis of the SLC38A6 Gene in Chinese Patients with Essential Tremor: Not Causative, But Rather an Additional Susceptibility Gene?",
+      "reported_at": "2026-11-04T01:54:37.233931"
+    },
+    "42966163": {
+      "title": "Immunometabolic dysregulation of reactive microglia and astrocytes in neurodegenerative diseases: Mechanistic insights and therapeutic implications.",
+      "reported_at": "2026-11-04T01:54:37.233931"
     }
   }
 }
