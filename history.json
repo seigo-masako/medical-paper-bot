@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42081777": {
-      "title": "Intrathecal Mesenchymal Stem Cells in Progressive Multiple Sclerosis: A Randomized, Double-Blind, Placebo-Controlled Trial (SMART-MS).",
-      "reported_at": "2026-05-08T22:55:58.133687"
-    },
-    "42091228": {
-      "title": "Autologous haematopoietic stem cell transplantation in multiple sclerosis: outcomes and predictors from German real-world data.",
-      "reported_at": "2026-05-08T22:55:58.133687"
-    },
-    "42102338": {
-      "title": "Multiple Sclerosis and Outpatient Physician Care in the Last Years of Life: A Population-Based Study.",
-      "reported_at": "2026-05-08T22:55:58.133687"
-    },
-    "42090794": {
-      "title": "Cerebral Amyloid Angiopathy.",
-      "reported_at": "2026-05-08T22:55:58.133687"
-    },
-    "41293835": {
-      "title": "Cognition in multiple sclerosis within the modern diagnostic and treatment era.",
-      "reported_at": "2026-05-08T22:55:58.133687"
-    },
     "42096672": {
       "title": "IV Fosphenytoin for Acute Trigeminal Neuralgia: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial.",
       "reported_at": "2026-05-09T22:41:55.973037"
@@ -3099,6 +3079,26 @@
     "42966163": {
       "title": "Immunometabolic dysregulation of reactive microglia and astrocytes in neurodegenerative diseases: Mechanistic insights and therapeutic implications.",
       "reported_at": "2026-11-04T01:54:37.233931"
+    },
+    "42956387": {
+      "title": "Cenobamate in Focal-Onset Refractory and Super-Refractory Status Epilepticus: A Multicenter Cohort Study With Matched Analysis.",
+      "reported_at": "2026-11-05T02:00:32.108708"
+    },
+    "42669252": {
+      "title": "Neurosurgical management of childhood-onset epilepsy in periventricular nodular heterotopia: A systematic review of effectiveness and outcomes.",
+      "reported_at": "2026-11-05T02:00:32.108708"
+    },
+    "42970749": {
+      "title": "Germline Genetic Variants and Epilepsy Surgery Response: Individual Participant Pooled Analysis of 272 Patients.",
+      "reported_at": "2026-11-05T02:00:32.108708"
+    },
+    "42976531": {
+      "title": "Predicting the risk of seizure recurrence after antiseizure medication withdrawal in children with epilepsy: An individualized and web-based clinical decision support model.",
+      "reported_at": "2026-11-05T02:00:32.108708"
+    },
+    "42641490": {
+      "title": "Intramuscular midazolam versus intravenous clonazepam for prehospital treatment of generalized tonic-clonic seizures: A randomized double-blind non-inferiority trial.",
+      "reported_at": "2026-11-05T02:00:32.108708"
     }
   }
 }
