@@ -1,21 +1,5 @@
 {
   "reported_pmids": {
-    "42096672": {
-      "title": "IV Fosphenytoin for Acute Trigeminal Neuralgia: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial.",
-      "reported_at": "2026-05-09T22:41:55.973037"
-    },
-    "42090640": {
-      "title": "Glaucoma Risk Associated With Calcitonin Gene-Related Peptide Inhibitor Use in Migraine: A Multinational Cohort Study.",
-      "reported_at": "2026-05-09T22:41:55.973037"
-    },
-    "42093186": {
-      "title": "Impaired skin reinnervation in Epidermolysis Bullosa due to neurotrophic deficiency.",
-      "reported_at": "2026-05-09T22:41:55.973037"
-    },
-    "42096674": {
-      "title": "The Prevalence and Incidence of Cluster Headache: A Norwegian Population-Based Time-Trend Study.",
-      "reported_at": "2026-05-09T22:41:55.973037"
-    },
     "42101064": {
       "title": "Factors Impacting Tracheostomy Decisions in Korean Individuals With Amyotrophic Lateral Sclerosis: A Cross-Sectional Survey.",
       "reported_at": "2026-05-10T22:45:21.334800"
@@ -3099,6 +3083,26 @@
     "42641490": {
       "title": "Intramuscular midazolam versus intravenous clonazepam for prehospital treatment of generalized tonic-clonic seizures: A randomized double-blind non-inferiority trial.",
       "reported_at": "2026-11-05T02:00:32.108708"
+    },
+    "42987244": {
+      "title": "Impact of 2024 Revisions of Multiple Sclerosis Diagnostic Criteria in People With Radiologically Isolated Syndrome.",
+      "reported_at": "2026-11-06T02:00:59.602159"
+    },
+    "42963188": {
+      "title": "Long-Term Disease Control Following Completion of Cladribine Treatment in Multiple Sclerosis: Extended Follow-Up of the CladStop Cohort.",
+      "reported_at": "2026-11-06T02:00:59.602159"
+    },
+    "42974736": {
+      "title": "Proportion and Clinical Characteristics of Double-Seronegative NMOSD in a Multicenter Real-World Cohort.",
+      "reported_at": "2026-11-06T02:00:59.602159"
+    },
+    "42949247": {
+      "title": "Digital Twins in Clinical Neurology: From Concept to Clinical Application in Multiple Sclerosis.",
+      "reported_at": "2026-11-06T02:00:59.602159"
+    },
+    "42126089": {
+      "title": "Low-dose IL-2 fails to expand Tregs after alemtuzumab: insight into impaired immune tolerance in multiple sclerosis.",
+      "reported_at": "2026-11-06T02:00:59.602159"
     }
   }
 }
