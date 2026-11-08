@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42109123": {
-      "title": "Safety of Rapid Local Ischemic Postconditioning After Thrombectomy in Acute Stroke: A Dose-Finding Trial (RAPID SAVE).",
-      "reported_at": "2026-05-11T22:54:04.451198"
-    },
-    "42100822": {
-      "title": "Sex-Based Efficacy of Endovascular Thrombectomy Techniques in LVO Stroke: A Multicenter Registry Analysis.",
-      "reported_at": "2026-05-11T22:54:04.451198"
-    },
-    "42096239": {
-      "title": "Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.",
-      "reported_at": "2026-05-11T22:54:04.451198"
-    },
-    "42101654": {
-      "title": "Sarcopenia, Grip Strength, Walking Pace, and New-Onset Stroke Risk: A UK Biobank Study.",
-      "reported_at": "2026-05-11T22:54:04.451198"
-    },
-    "42100960": {
-      "title": "Intravenous Tirofiban After Tenecteplase in Acute Ischemic Stroke: The INSTANT Randomized Clinical Trial.",
-      "reported_at": "2026-05-11T22:54:04.451198"
-    },
     "42112660": {
       "title": "Alzheimer's Disease Co-Pathology and Cognitive Impairment in Amyotrophic Lateral Sclerosis.",
       "reported_at": "2026-05-12T23:00:22.636271"
@@ -3103,6 +3083,26 @@
     "42969615": {
       "title": "Spontaneous neuropathic pain.",
       "reported_at": "2026-11-07T01:37:13.673649"
+    },
+    "42992452": {
+      "title": "Leuprorelin Acetate for Spinal and Bulbar Muscular Atrophy: A Systematic Review of Clinical Efficacy, Long-Term Outcomes, and Safety Considerations.",
+      "reported_at": "2026-11-08T01:05:55.859208"
+    },
+    "41911331": {
+      "title": "Clinical and biochemical characterization of amyotrophic lateral sclerosis in a CHCHD10 R15L family.",
+      "reported_at": "2026-11-08T01:05:55.859208"
+    },
+    "42947290": {
+      "title": "Anatomically Defined Motor Phenotypes Reveal Dissociated Trajectories of Progression, Neurofilament Profiles, and Survival in ALS.",
+      "reported_at": "2026-11-08T01:05:55.859208"
+    },
+    "42984132": {
+      "title": "Dysregulated CSF T-cell responses and their evolution after intravenous immunoglobulin in Guillain-Barré syndrome.",
+      "reported_at": "2026-11-08T01:05:55.859208"
+    },
+    "42698124": {
+      "title": "Serum Neurofilament Light Chain and GFAP in Amyotrophic Lateral Sclerosis on a Commercial ECLIA Platform.",
+      "reported_at": "2026-11-08T01:05:55.859208"
     }
   }
 }
