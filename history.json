@@ -1,21 +1,5 @@
 {
   "reported_pmids": {
-    "42104878": {
-      "title": "Long-Duration Response to Levodopa in the PPMI-Cohort.",
-      "reported_at": "2026-05-13T23:05:34.079184"
-    },
-    "42104874": {
-      "title": "Qihuang Needle Therapy for Motor Symptoms in Parkinson's Disease: A Randomized Controlled Trial.",
-      "reported_at": "2026-05-13T23:05:34.079184"
-    },
-    "42124381": {
-      "title": "Daily-Life, Sensor-Derived Tremor Measures Are Sensitive to Progression in Early Parkinson's Disease.",
-      "reported_at": "2026-05-13T23:05:34.079184"
-    },
-    "42095555": {
-      "title": "Diffusion MRI and α-Synuclein Seed Amplification Status in Parkinson's Disease.",
-      "reported_at": "2026-05-13T23:05:34.079184"
-    },
     "42132620": {
       "title": "Hemispheric surgery for hemimegalencephaly and hemispheric cortical dysplasia in infants below 12 months of age-A single-center experience.",
       "reported_at": "2026-05-14T22:56:40.558813"
@@ -3095,6 +3079,26 @@
     "42974688": {
       "title": "Preprocedural Curvature Assessment Can Stratify Recanalization Risk Before Device Selection in Mechanical Thrombectomy.",
       "reported_at": "2026-11-09T01:25:41.828783"
+    },
+    "42046390": {
+      "title": "Medial temporal lobe tau-neurodegeneration mismatch from structural imaging and plasma biomarkers.",
+      "reported_at": "2026-11-10T03:59:00.221806"
+    },
+    "41800756": {
+      "title": "Selective disruption of tau-SH3 interactions rescues seizure and sleep phenotypes.",
+      "reported_at": "2026-11-10T03:59:00.221806"
+    },
+    "41889331": {
+      "title": "Quantitative pathology and APOE genotype reveal dementia risk and progression in Lewy body disease.",
+      "reported_at": "2026-11-10T03:59:00.221806"
+    },
+    "41804798": {
+      "title": "Cofilin hyperphosphorylation triggers TDP-43 pathology in sporadic amyotrophic lateral sclerosis.",
+      "reported_at": "2026-11-10T03:59:00.221806"
+    },
+    "41885166": {
+      "title": "The prevalence of Lewy body pathology across nine international community-based cohorts.",
+      "reported_at": "2026-11-10T03:59:00.221806"
     }
   }
 }
