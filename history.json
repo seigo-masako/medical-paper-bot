@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42132620": {
-      "title": "Hemispheric surgery for hemimegalencephaly and hemispheric cortical dysplasia in infants below 12 months of age-A single-center experience.",
-      "reported_at": "2026-05-14T22:56:40.558813"
-    },
-    "42127220": {
-      "title": "In vivo adenine base editing ameliorates Dravet syndrome phenotypes in a mouse model.",
-      "reported_at": "2026-05-14T22:56:40.558813"
-    },
-    "42104870": {
-      "title": "Listening across frequencies: Capturing seizures of all patients to advance antiseizure medication development.",
-      "reported_at": "2026-05-14T22:56:40.558813"
-    },
-    "42104902": {
-      "title": "Pharmacogenomics in epilepsy care across Asia.",
-      "reported_at": "2026-05-14T22:56:40.558813"
-    },
-    "42128620": {
-      "title": "Evaluation of metformin for epilepsy prevention or seizure control in people without evidence of diabetes: retrospective cohort study.",
-      "reported_at": "2026-05-14T22:56:40.558813"
-    },
     "41558853": {
       "title": "Discontinuation of ocrelizumab in multiple sclerosis: reoccurrence of disease activity.",
       "reported_at": "2026-05-15T22:54:28.026259"
@@ -3099,6 +3079,26 @@
     "41885166": {
       "title": "The prevalence of Lewy body pathology across nine international community-based cohorts.",
       "reported_at": "2026-11-10T03:59:00.221806"
+    },
+    "41793057": {
+      "title": "Plasma tau-species-positive neuron-derived extracellular vesicles in progressive supranuclear palsy.",
+      "reported_at": "2026-11-11T01:43:27.220359"
+    },
+    "41934257": {
+      "title": "Intracranial biomarkers for anterior thalamic deep brain stimulation in epilepsy: a long-term observational study.",
+      "reported_at": "2026-11-11T01:43:27.220359"
+    },
+    "41873142": {
+      "title": "Blunted response of caudal locus coeruleus to arousing stimuli in Parkinson's disease.",
+      "reported_at": "2026-11-11T01:43:27.220359"
+    },
+    "42984454": {
+      "title": "Regional Mitochondrial Density Maps Selective Posterior Atrophy in Parkinson's Disease.",
+      "reported_at": "2026-11-11T01:43:27.220359"
+    },
+    "42984461": {
+      "title": "Skin Seed Amplification Assay Differentiates Multiple System Atrophy from Parkinson's Disease.",
+      "reported_at": "2026-11-11T01:43:27.220359"
     }
   }
 }
