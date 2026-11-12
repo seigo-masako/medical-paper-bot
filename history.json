@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "41558853": {
-      "title": "Discontinuation of ocrelizumab in multiple sclerosis: reoccurrence of disease activity.",
-      "reported_at": "2026-05-15T22:54:28.026259"
-    },
-    "41760394": {
-      "title": "Safety of breastfeeding under monoclonal antibodies in the offspring of mothers with multiple sclerosis or neuromyelitis optica spectrum disorder.",
-      "reported_at": "2026-05-15T22:54:28.026259"
-    },
-    "42117429": {
-      "title": "TIM-3-dependent lysosome biogenesis is required for myelin debris clearance in macrophages.",
-      "reported_at": "2026-05-15T22:54:28.026259"
-    },
-    "42113599": {
-      "title": "Amyotrophic Lateral Sclerosis: A Review.",
-      "reported_at": "2026-05-15T22:54:28.026259"
-    },
-    "42103467": {
-      "title": "Predictors of B-cell repopulation in people with multiple sclerosis treated with ocrelizumab: insights from two large cohorts.",
-      "reported_at": "2026-05-15T22:54:28.026259"
-    },
     "42133910": {
       "title": "Associations and Potential Biological Pathways Between Physical Frailty and Epilepsy Incidence: A Large-Scale Prospective Cohort Study.",
       "reported_at": "2026-05-16T22:42:58.894593"
@@ -3099,6 +3079,26 @@
     "42984461": {
       "title": "Skin Seed Amplification Assay Differentiates Multiple System Atrophy from Parkinson's Disease.",
       "reported_at": "2026-11-11T01:43:27.220359"
+    },
+    "43002093": {
+      "title": "Clinical features of the postictal state in adults with epilepsy: A cross-sectional survey.",
+      "reported_at": "2026-11-12T02:42:21.501787"
+    },
+    "42995729": {
+      "title": "Repetitive clustered low-voltage fast activity on intracranial electroencephalogram in mild malformation of cortical development with oligodendroglial hyperplasia and epilepsy: A candidate electroencephalographic biomarker study.",
+      "reported_at": "2026-11-12T02:42:21.501787"
+    },
+    "43002431": {
+      "title": "Azetukalner in Adults With Focal Seizures: The X-TOLE2 Phase 3 Randomized Clinical Trial.",
+      "reported_at": "2026-11-12T02:42:21.501787"
+    },
+    "42998007": {
+      "title": "Seizure quantification using wearable devices.",
+      "reported_at": "2026-11-12T02:42:21.501787"
+    },
+    "42984304": {
+      "title": "Longitudinal serum and CSF cytokine dynamics in NORSE: Associations with immunotherapy exposure.",
+      "reported_at": "2026-11-12T02:42:21.501787"
     }
   }
 }
