@@ -1,13 +1,5 @@
 {
   "reported_pmids": {
-    "42133910": {
-      "title": "Associations and Potential Biological Pathways Between Physical Frailty and Epilepsy Incidence: A Large-Scale Prospective Cohort Study.",
-      "reported_at": "2026-05-16T22:42:58.894593"
-    },
-    "41985109": {
-      "title": "Acute Environmental Triggers and Intermediate-Term Modulators of Emergency Migraine-Related Health Care Encounters.",
-      "reported_at": "2026-05-16T22:42:58.894593"
-    },
     "42139656": {
       "title": "Vamorolone Safety, Pharmacokinetics, and Exploratory Efficacy in Duchenne Muscular Dystrophy: A Phase II, Nonrandomized, Multiple-Dose Study in 2-<4-Year-Old Boys.",
       "reported_at": "2026-05-17T22:53:38.747879"
@@ -3099,6 +3091,14 @@
     "42984304": {
       "title": "Longitudinal serum and CSF cytokine dynamics in NORSE: Associations with immunotherapy exposure.",
       "reported_at": "2026-11-12T02:42:21.501787"
+    },
+    "43008259": {
+      "title": "Factors Associated With Rate of Multiple Sclerosis Onset in a Cohort With Prior Infectious Mononucleosis Identified in Administrative Data.",
+      "reported_at": "2026-11-13T02:22:20.865933"
+    },
+    "43013792": {
+      "title": "Newborn Screening for Duchenne Muscular Dystrophy: Contemporary Considerations for Implementation of an Early Diagnostic Paradigm.",
+      "reported_at": "2026-11-13T02:22:20.865933"
     }
   }
 }
