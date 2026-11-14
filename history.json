@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42139656": {
-      "title": "Vamorolone Safety, Pharmacokinetics, and Exploratory Efficacy in Duchenne Muscular Dystrophy: A Phase II, Nonrandomized, Multiple-Dose Study in 2-<4-Year-Old Boys.",
-      "reported_at": "2026-05-17T22:53:38.747879"
-    },
-    "41955555": {
-      "title": "The Muscle Cramp Impact Index: A Patient-Centered Scale for the Assessment of Muscle Cramps.",
-      "reported_at": "2026-05-17T22:53:38.747879"
-    },
-    "42124394": {
-      "title": "Pediatric Guillain-Barré Syndrome.",
-      "reported_at": "2026-05-17T22:53:38.747879"
-    },
-    "42127347": {
-      "title": "Risk of Myasthenia Gravis Exacerbation During Pregnancy and Postpartum: A Nationwide Cohort Study.",
-      "reported_at": "2026-05-17T22:53:38.747879"
-    },
-    "42139655": {
-      "title": "Neurobehavioral Profiles in Young Steroid-Naive Boys With Duchenne Muscular Dystrophy: A Baseline Data Analysis From the FOR-DMD Trial.",
-      "reported_at": "2026-05-17T22:53:38.747879"
-    },
     "42127389": {
       "title": "Endovascular Treatment of Medium-Vessel-Occlusion Strokes.",
       "reported_at": "2026-05-18T23:01:09.435527"
@@ -3099,6 +3079,10 @@
     "43013792": {
       "title": "Newborn Screening for Duchenne Muscular Dystrophy: Contemporary Considerations for Implementation of an Early Diagnostic Paradigm.",
       "reported_at": "2026-11-13T02:22:20.865933"
+    },
+    "43021468": {
+      "title": "Hypersensitivity to adrenomedullin in post-traumatic headache: a randomized crossover study.",
+      "reported_at": "2026-11-14T01:57:54.718673"
     }
   }
 }
