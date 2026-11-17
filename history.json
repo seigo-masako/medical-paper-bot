@@ -1,41 +1,5 @@
 {
   "reported_pmids": {
-    "42135922": {
-      "title": "Diagnostic, Prognostic Value, and Pathological Associations of Levodopa Responsiveness in Parkinson's Disease, Multiple System Atrophy, and Progressive Supranuclear Palsy.",
-      "reported_at": "2026-05-20T03:57:01.879499"
-    },
-    "42138034": {
-      "title": "Heterogenous Neuropathology in a Pedigree with RAB39B-Related Parkinson's Disease.",
-      "reported_at": "2026-05-20T03:57:01.879499"
-    },
-    "42141756": {
-      "title": "Wearable Movement-Tracking for Prodromal Parkinson's Disease Detection: A Cross-Country Validation Study.",
-      "reported_at": "2026-05-20T03:57:01.879499"
-    },
-    "42153334": {
-      "title": "Parkinson's disease beyond the brain: erythrocyte α-synuclein transfer across the blood-brain barrier.",
-      "reported_at": "2026-05-20T03:57:01.879499"
-    },
-    "41785612": {
-      "title": "A cross-sectional exploration of the relationship between Parkinson's disease and peripheral blood immune cells in an ethnically diverse East London population.",
-      "reported_at": "2026-05-20T03:57:01.879499"
-    },
-    "42160449": {
-      "title": "Transcranial ultrasound stimulation of motor networks in Parkinson's disease informed by local field potential dynamics.",
-      "reported_at": "2026-05-20T23:12:36.782178"
-    },
-    "42157002": {
-      "title": "A multimodal biomarker strategy to enhance diagnostic precision in neurodegenerative parkinsonism.",
-      "reported_at": "2026-05-20T23:12:36.782178"
-    },
-    "41791219": {
-      "title": "Association of OBPIIa genetic variants with prodromal Parkinsonian phenotypes and dopaminergic biomarkers in the PPMI cohort.",
-      "reported_at": "2026-05-20T23:12:36.782178"
-    },
-    "42142448": {
-      "title": "Unravelling the relation among fatigue, fatigability and attention in Parkinson's disease.",
-      "reported_at": "2026-05-20T23:12:36.782178"
-    },
     "42159064": {
       "title": "Predicting seizure freedom in the postpartum period: Findings from the Maternal Outcomes and Neurodevelopmental Effects of Antiepileptic Drugs study.",
       "reported_at": "2026-05-21T23:03:18.123944"
@@ -3091,6 +3055,26 @@
     "42721021": {
       "title": "Loberamisal for Acute Ischemic Stroke: The LAIS Randomized Clinical Trial.",
       "reported_at": "2026-11-16T01:34:45.601174"
+    },
+    "43008775": {
+      "title": "Safety, tolerability, and efficacy of bepranemab in people living with prodromal-to-mild Alzheimer's disease: a randomised, double-blind, placebo-controlled, phase 2 trial.",
+      "reported_at": "2026-11-17T04:20:12.464932"
+    },
+    "43019495": {
+      "title": "Cerebral Amyloid Angiopathy in Alzheimer Disease Continuum: Prevalence and Clinical Relevance in a Biomarker-Defined Memory Clinic Cohort.",
+      "reported_at": "2026-11-17T04:20:12.464932"
+    },
+    "43008247": {
+      "title": "Personality Correlates of Functional Status in Patients With Early-Stage Behavioral Variant Frontotemporal Dementia.",
+      "reported_at": "2026-11-17T04:20:12.464932"
+    },
+    "43038492": {
+      "title": "Expanding Amyotrophic Lateral Sclerosis Genetic Spectrum via Systematic Screening of Adult-Onset Neurologic Disease Genes.",
+      "reported_at": "2026-11-17T04:20:12.464932"
+    },
+    "43037989": {
+      "title": "Absolute Risk of Progression to Cognitive Impairment Based on Plasma Phosphorylated Tau 217, Age, Sex, and APOE ε4.",
+      "reported_at": "2026-11-17T04:20:12.464932"
     }
   }
 }
