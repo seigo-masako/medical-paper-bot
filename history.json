@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42171268": {
-      "title": "Genetic-Proteomic Integration Identifies Predictive Plasma Proteins for Multiple Sclerosis.",
-      "reported_at": "2026-05-22T22:58:12.837155"
-    },
-    "42161588": {
-      "title": "Comparative effectiveness of ocrelizumab in subgroups of patients with multiple sclerosis: a multi-registry observational cohort study.",
-      "reported_at": "2026-05-22T22:58:12.837155"
-    },
-    "42148664": {
-      "title": "Designing studies for post-treatment Lyme disease and other infection-associated chronic illnesses.",
-      "reported_at": "2026-05-22T22:58:12.837155"
-    },
-    "42153336": {
-      "title": "MIF modulates impaired astrocyte distribution in schizophrenia cortical spheroids.",
-      "reported_at": "2026-05-22T22:58:12.837155"
-    },
-    "42170815": {
-      "title": "Co- and Multi-Pathologies in Parkinson's Disease: An International Parkinson and Movement Disorder Society Scientific Issues Committee Review.",
-      "reported_at": "2026-05-22T22:58:12.837155"
-    },
     "42152617": {
       "title": "Amitriptyline for neuropathic pain in patients with leprosy: a bicenter randomized controlled trial.",
       "reported_at": "2026-05-23T22:51:50.368414"
@@ -3075,6 +3055,26 @@
     "42753305": {
       "title": "Pathogenesis of the Holmes tremor due to cerebellar lesions: A case series with a narrative review.",
       "reported_at": "2026-11-18T03:19:18.385237"
+    },
+    "43049694": {
+      "title": "Cognition in older adults with epilepsy: A review of existing interventions and a proposed conceptual framework for integrated care.",
+      "reported_at": "2026-11-19T02:56:45.082833"
+    },
+    "43044079": {
+      "title": "Validation of the BASED Score as a Prognostic Biomarker for Refractory Epilepsy Following Treatment of Infantile Epileptic Spasms Syndrome.",
+      "reported_at": "2026-11-19T02:56:45.082833"
+    },
+    "43037621": {
+      "title": "Antiseizure medication use in self-limited epilepsies of childhood: A scoping review by the ILAE Pediatric Medical Therapies Task Force.",
+      "reported_at": "2026-11-19T02:56:45.082833"
+    },
+    "43049542": {
+      "title": "Validation of drug-resistant epilepsy identification algorithms in US Veterans across diverse care settings.",
+      "reported_at": "2026-11-19T02:56:45.082833"
+    },
+    "43037638": {
+      "title": "Knockdown of KCNQ2 in CA1 reshapes epilepsy-related limbic network rhythms and reduces spontaneous exploratory behavior in mice.",
+      "reported_at": "2026-11-19T02:56:45.082833"
     }
   }
 }
