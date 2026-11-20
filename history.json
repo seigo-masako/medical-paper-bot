@@ -1,13 +1,5 @@
 {
   "reported_pmids": {
-    "42152617": {
-      "title": "Amitriptyline for neuropathic pain in patients with leprosy: a bicenter randomized controlled trial.",
-      "reported_at": "2026-05-23T22:51:50.368414"
-    },
-    "42152687": {
-      "title": "Patients with different putative chronic pain mechanisms have different cortical complexity and synchrony.",
-      "reported_at": "2026-05-23T22:51:50.368414"
-    },
     "42162585": {
       "title": "Non-Cyclic Rozanolixizumab Administration in Complex Generalized Myasthenia Gravis.",
       "reported_at": "2026-05-24T22:57:45.924015"
@@ -3075,6 +3067,22 @@
     "43037638": {
       "title": "Knockdown of KCNQ2 in CA1 reshapes epilepsy-related limbic network rhythms and reduces spontaneous exploratory behavior in mice.",
       "reported_at": "2026-11-19T02:56:45.082833"
+    },
+    "43040875": {
+      "title": "Motor system inefficiency as an activity-dependent amplifier of fatigue in multiple sclerosis.",
+      "reported_at": "2026-11-20T02:50:17.513472"
+    },
+    "43042456": {
+      "title": "Genetically Predicted MRI Phenotypes Are Associated with Risk of Multiple Sclerosis.",
+      "reported_at": "2026-11-20T02:50:17.513472"
+    },
+    "42727542": {
+      "title": "Clinical decision-making in older adults with multiple sclerosis: A National Delphi survey of Israeli MS specialists.",
+      "reported_at": "2026-11-20T02:50:17.513472"
+    },
+    "42664849": {
+      "title": "Viral seropositivity in a Brazilian cohort of patients with multiple sclerosis: A retrospective descriptive study.",
+      "reported_at": "2026-11-20T02:50:17.513472"
     }
   }
 }
