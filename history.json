@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42107392": {
-      "title": "Endovascular thrombectomy for patients with large-core ischaemic stroke presenting up to 24 h after onset (ATLAS): a systematic review and individual patient data meta-analysis with central imaging adjudication.",
-      "reported_at": "2026-05-25T23:00:53.608357"
-    },
-    "42173266": {
-      "title": "Effect of Time on Reperfusion in Acute Ischemic Stroke Treated with Thrombolysis within the 4.5-hour Window: a Secondary Analysis of the AcT Trial.",
-      "reported_at": "2026-05-25T23:00:53.608357"
-    },
-    "42145088": {
-      "title": "Liraglutide and Recurrent Stroke by Baseline Insulin Resistance: A Post Hoc Analysis of the LAMP Trial.",
-      "reported_at": "2026-05-25T23:00:53.608357"
-    },
-    "42155823": {
-      "title": "Using clinical and thrombus characteristics to predict the etiology of ischemic stroke: An analysis of the INSIGHT registry.",
-      "reported_at": "2026-05-25T23:00:53.608357"
-    },
-    "42162696": {
-      "title": "A Five-Year Comparative Analysis of Attending Physician and Non-attending Initiated Code Stroke Activations in a Primary Stroke Center Emergency Department.",
-      "reported_at": "2026-05-25T23:00:53.608357"
-    },
     "42185748": {
       "title": "Gray Matter Microstructure Measured Using Diffusion Imaging as a Biomarker of Severity in Lewy Body Diseases.",
       "reported_at": "2026-05-26T23:09:44.892431"
@@ -3083,6 +3063,26 @@
     "43061830": {
       "title": "Cortical and meningeal neuroimmune interactions contribute to the generation of migraine headaches.",
       "reported_at": "2026-11-21T02:59:56.488924"
+    },
+    "43053524": {
+      "title": "ERN EURO-NMD expert opinion on management of new biologic therapies in myasthenia gravis.",
+      "reported_at": "2026-11-22T01:55:02.211801"
+    },
+    "43038487": {
+      "title": "Robustness of Plasma P-Tau217 Diagnostic Thresholds for Alzheimer Disease Across Various Clinical Populations and Laboratory Environments.",
+      "reported_at": "2026-11-22T01:55:02.211801"
+    },
+    "43059601": {
+      "title": "Improving Quality of Skin Biopsy Testing for Small Fiber Neuropathy Part I: Developing Demographic Algorithms With Childhood Norms.",
+      "reported_at": "2026-11-22T01:55:02.211801"
+    },
+    "43039018": {
+      "title": "D4Z4 methylation and genetic modifiers influence severity in a facioscapulohumeral muscular dystrophy kindred.",
+      "reported_at": "2026-11-22T01:55:02.211801"
+    },
+    "43046936": {
+      "title": "Immune Checkpoint Dysregulation in Inflammatory Neuropathies: An Exploratory Study.",
+      "reported_at": "2026-11-22T01:55:02.211801"
     }
   }
 }
