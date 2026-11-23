@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42185748": {
-      "title": "Gray Matter Microstructure Measured Using Diffusion Imaging as a Biomarker of Severity in Lewy Body Diseases.",
-      "reported_at": "2026-05-26T23:09:44.892431"
-    },
-    "42186854": {
-      "title": "Is SORL1 a common genetic target across neurodegenerative diseases? A multi-ancestry biobank study.",
-      "reported_at": "2026-05-26T23:09:44.892431"
-    },
-    "42160451": {
-      "title": "Treating the immune system to repair the brain.",
-      "reported_at": "2026-05-26T23:09:44.892431"
-    },
-    "42160746": {
-      "title": "Smoking Cessation, Weight Change, and Risk of Dementia: A Prospective Cohort Study.",
-      "reported_at": "2026-05-26T23:09:44.892431"
-    },
-    "42170924": {
-      "title": "Soluble epoxide hydrolase drives neurovascular dysfunction in a model of amyloidosis.",
-      "reported_at": "2026-05-26T23:09:44.892431"
-    },
     "42178793": {
       "title": "Deep Brain Stimulation of the Posterior Subthalamic Area and the Subthalamic Nucleus in Tremor-Dominant Parkinson's Disease: A Randomized, Crossover Trial.",
       "reported_at": "2026-05-27T23:16:48.245876"
@@ -3083,6 +3063,18 @@
     "43046936": {
       "title": "Immune Checkpoint Dysregulation in Inflammatory Neuropathies: An Exploratory Study.",
       "reported_at": "2026-11-22T01:55:02.211801"
+    },
+    "42929671": {
+      "title": "Trial of Endovascular Therapy for Mild Stroke with Large-Vessel Occlusion.",
+      "reported_at": "2026-11-23T02:13:22.820854"
+    },
+    "42929656": {
+      "title": "Mechanical Thrombectomy 24 to 72 Hours after Large-Vessel Ischemic Stroke.",
+      "reported_at": "2026-11-23T02:13:22.820854"
+    },
+    "43055118": {
+      "title": "Prestroke and Poststroke Physical Activity and Depression, Anxiety, and Fatigue After Ischemic Stroke: A Cohort Study.",
+      "reported_at": "2026-11-23T02:13:22.820854"
     }
   }
 }
