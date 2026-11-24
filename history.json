@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42178793": {
-      "title": "Deep Brain Stimulation of the Posterior Subthalamic Area and the Subthalamic Nucleus in Tremor-Dominant Parkinson's Disease: A Randomized, Crossover Trial.",
-      "reported_at": "2026-05-27T23:16:48.245876"
-    },
-    "42202047": {
-      "title": "The PET tracer [<sup>11</sup>C]MODAG-005 targets alpha-synuclein aggregates in the brain.",
-      "reported_at": "2026-05-27T23:16:48.245876"
-    },
-    "42190148": {
-      "title": "Incidence of Dementia With Lewy Bodies in Salento, Italy: A Population-Based Study.",
-      "reported_at": "2026-05-27T23:16:48.245876"
-    },
-    "42175590": {
-      "title": "The GBA1 p.E427K (p.E388K) Variant Is a Risk Factor for Synucleinopathies: A Meta-Analysis.",
-      "reported_at": "2026-05-27T23:16:48.245876"
-    },
-    "42161331": {
-      "title": "Large-scale antagonistic cerebral networks drive amplitude variability in Parkinson's disease tremor.",
-      "reported_at": "2026-05-27T23:16:48.245876"
-    },
     "42202238": {
       "title": "Efficacy of Levetiracetam in Patients With Pediatric Epilepsy: A Systematic Review and Meta-Analysis.",
       "reported_at": "2026-05-28T23:15:47.395829"
@@ -3075,6 +3055,18 @@
     "43055118": {
       "title": "Prestroke and Poststroke Physical Activity and Depression, Anxiety, and Fatigue After Ischemic Stroke: A Cohort Study.",
       "reported_at": "2026-11-23T02:13:22.820854"
+    },
+    "43050637": {
+      "title": "Neuropathologic Correlates of Cognitive Functions in Patients With Essential Tremor Without Dementia: Beyond the Cerebellum.",
+      "reported_at": "2026-11-24T05:44:41.234243"
+    },
+    "43049192": {
+      "title": "The hippocampus as a latent diffusion engine for memory, perception and cognitive dysfunction.",
+      "reported_at": "2026-11-24T05:44:41.234243"
+    },
+    "43045795": {
+      "title": "Generational gains in cognitive capacity and dementia incidence rates in Western countries.",
+      "reported_at": "2026-11-24T05:44:41.234243"
     }
   }
 }
