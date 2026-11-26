@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42200271": {
-      "title": "Immune System of the Ischemic Brain: Old Paradigms Revisited.",
-      "reported_at": "2026-05-29T23:11:19.598094"
-    },
-    "42214041": {
-      "title": "Use of High-Efficacy Therapy in Children With Multiple Sclerosis to Prevent Long-Term Disability.",
-      "reported_at": "2026-05-29T23:11:19.598094"
-    },
-    "42172556": {
-      "title": "French NOMADMUS Cohort Overview: Landscape Evolution of AQP4+NMOSD and MOGAD From 2010 to 2024.",
-      "reported_at": "2026-05-29T23:11:19.598094"
-    },
-    "42048628": {
-      "title": "What Is the Potential Relevance of Hippocampal Area CA2 in Neurologic Disorders?",
-      "reported_at": "2026-05-29T23:11:19.598094"
-    },
-    "42085644": {
-      "title": "Differences in Use of Disease-Modifying Therapies Between Patients With Late-Onset and Adult-Onset Relapsing-Remitting Multiple Sclerosis.",
-      "reported_at": "2026-05-29T23:11:19.598094"
-    },
     "42189557": {
       "title": "Effect of Electroacupuncture on Postherpetic Neuralgia: A Randomized Clinical Trial.",
       "reported_at": "2026-05-30T22:56:17.456043"
@@ -3067,6 +3047,22 @@
     "43068913": {
       "title": "Six Years after the Storm: Drawing the First Line on COVID-19 and Parkinson's Disease.",
       "reported_at": "2026-11-25T04:47:36.585311"
+    },
+    "43070722": {
+      "title": "The hidden cost of seizure suppression: Understanding neurological outcome in refractory and superrefractory status epilepticus.",
+      "reported_at": "2026-11-26T03:57:05.802835"
+    },
+    "43067287": {
+      "title": "Surgical treatment of extratemporal epilepsy in children: seizure outcomes, complications and patterns of relapse.",
+      "reported_at": "2026-11-26T03:57:05.802835"
+    },
+    "43076605": {
+      "title": "Rodent studies of hypoxic-ischemic encephalopathy-induced neonatal seizures: A systematic review on model variations and reporting standards.",
+      "reported_at": "2026-11-26T03:57:05.802835"
+    },
+    "42874008": {
+      "title": "Association Between Epilepsy and Young-Onset Dementia: Nationwide Data From France and Sweden.",
+      "reported_at": "2026-11-26T03:57:05.802835"
     }
   }
 }
