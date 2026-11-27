@@ -1,9 +1,5 @@
 {
   "reported_pmids": {
-    "42189557": {
-      "title": "Effect of Electroacupuncture on Postherpetic Neuralgia: A Randomized Clinical Trial.",
-      "reported_at": "2026-05-30T22:56:17.456043"
-    },
     "42190146": {
       "title": "Comparative Study of Sporadic and Immune Checkpoint Inhibitor-Related Forms of Myasthenia Gravis-Myositis Overlap Syndrome.",
       "reported_at": "2026-05-31T22:59:44.771900"
@@ -3063,6 +3059,14 @@
     "42874008": {
       "title": "Association Between Epilepsy and Young-Onset Dementia: Nationwide Data From France and Sweden.",
       "reported_at": "2026-11-26T03:57:05.802835"
+    },
+    "43094289": {
+      "title": "Advanced Microstructural MRI and Clinical Characterization of Paramagnetic Rim Lesion Heterogeneity in Multiple Sclerosis.",
+      "reported_at": "2026-11-27T03:56:05.175920"
+    },
+    "43085603": {
+      "title": "Mechanistic Insights Into Exercise-Driven Stroke Rehabilitation for Post-Stroke Behavioral and Functional Recovery: Integrating Preclinical and Clinical Evidence.",
+      "reported_at": "2026-11-27T03:56:05.175920"
     }
   }
 }
